@@ -1,16 +1,17 @@
-## Hi there 👋
+## bem vindo ao meu perfil
 
-<!--
-**evelen120/evelen120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome é Evelen
 
-Here are some ideas to get you started:
+-Estou estudando no Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me densenvolvendo aqui no Alura
+
+ Utiliso esse espaço para compartilhar os meus  projetos desenvolvidos
+ 
+Você entrar em contato comigo evelenvi@gmail.com.br
+
+
+
+
+ 
+
